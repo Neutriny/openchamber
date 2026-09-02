@@ -151,7 +151,7 @@
   .font-mono,
   code,
   pre {
-    font-family: var(--font-mono, ui-monospace, SFMono-Regular, 'Liberation Mono', Menlo, monospace) !important;
+    --font-mono: "Maple Mono NF CN", ui-monospace, "SFMono-Regular", "Menlo", "Cascadia Mono", "Segoe UI Mono", monospace;
   }
 
   /* Restore default list styling inside markdown content - override Tailwind preflight */
