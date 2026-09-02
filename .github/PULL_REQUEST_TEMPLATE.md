@@ -15,16 +15,16 @@
 <!-- List the AGENTS.md rules, matching project skills, required skill references, and nearest README/DOCUMENTATION.md files used for this change. Explain why each applies and the important constraints you followed. Do not merely list filenames. -->
 
 | Guidance | Why it applies | How the change complies |
-|---|---|---|
-|  |  |  |
+|----------|----------------|-------------------------|
+|          |                |                         |
 
 ## Validation
 
 <!-- Report exact commands/manual checks and results. State what was not verified. Do not claim runtime behavior from type-check/lint alone. -->
 
 | Check | Result |
-|---|---|
-|  |  |
+|-------|--------|
+|       |        |
 
 ## Visual evidence
 
